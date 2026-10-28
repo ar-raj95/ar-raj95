@@ -16,6 +16,13 @@ I bridge the gap between complex data architecture, econometric modeling, and ex
 
 ## 🚀 Featured Projects by Domain
 
+### 🔬 Data Science & Causal Inference
+
+- [**Hotel Pricing & Urgency Message Causal Analysis**](https://github.com/ar-raj95/agoda-urgency-message-analysis)
+  - **Focus:** Econometric evaluation of treatment effects vs. selection bias in e-commerce pricing.
+  - **Highlights:** Built four regression models in Python (naive, controls, hotel fixed effects, stay fixed effects) on ~49K hotel bookings. An apparent ~39.5% price drop toward check-in shrinks to roughly zero (p = 0.88) once each room-night is compared to itself. Segment analysis then found where price rises are real, up to 82% of room-nights for City D + Weekend + 4-5 star.
+  - **Tech:** `Python` • `statsmodels` • `Fixed Effects` • `Econometrics` • `Power BI`
+
 ### ⚙️ Data Engineering & Architecture
 * **[dbt Enterprise Analytics Infrastructure](https://github.com/ar-raj95/dbt-analytics-engineering)**
   * **Focus:** Modular data modeling, staging transformations, and star-schema dimensional design.
@@ -29,14 +36,6 @@ I bridge the gap between complex data architecture, econometric modeling, and ex
   * **Focus:** Executive decision-support systems and portfolio performance tracking.
   * **Highlights:** Designed executive Monthly Business Review (MBR) decks and interactive Power BI dashboards to evaluate portfolio yield, customer retention dynamics, and revenue growth drivers.
   * **Tech:** `Power BI` • `SQL` • `Tableau` • `Executive Reporting` • `Financial Analytics`
-
----
-
-### 🔬 Data Science & Causal Inference
-* **[Hotel Pricing & Urgency Message Causal Analysis](https://github.com/ar-raj95/agoda-urgency-message-analysis)**
-  * **Focus:** Econometric evaluation of treatment effects vs. selection bias in e-commerce pricing.
-  * **Highlights:** Implemented a sequence of four econometric models ($M_1$–$M_4$) in Python to prove that an apparent ~39.5% price drop collapses to null ($p = 0.88$) under fixed effects, while isolating premium segments yielding up to an **82% lift**.
-  * **Tech:** `Python` • `statsmodels` • `Fixed Effects` • `Econometrics` • `Power BI`
 
 ---
 
