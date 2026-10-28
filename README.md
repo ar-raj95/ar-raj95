@@ -31,11 +31,10 @@ I bridge the gap between complex data architecture, econometric modeling, and ex
 
 ---
 
-### 📊 Advanced Analytics & Business Strategy
-* **[Executive Portfolio & Business Review (MBR) Analytics](https://github.com/ar-raj95/executive-mbr-analytics)**
-  * **Focus:** Executive decision-support systems and portfolio performance tracking.
-  * **Highlights:** Designed executive Monthly Business Review (MBR) decks and interactive Power BI dashboards to evaluate portfolio yield, customer retention dynamics, and revenue growth drivers.
-  * **Tech:** `Power BI` • `SQL` • `Tableau` • `Executive Reporting` • `Financial Analytics`
+### [Deposits Monthly Business Review (MBR) Executive Deck](https://github.com/ar-raj95/deposits-mbr-executive-deck)
+- **Focus:** Portfolio growth quality, channel mix analysis, cost-of-funds optimization, operational root cause identification, and balance sheet risk governance for an Executive Leadership Team (ELT).
+- **Highlights:** Evaluated $12.60B deposit portfolio (+1.6% MoM, +9.8% YoY) using summary dashboards and a 10-slide MBR deck; isolated gap to plan (-$120M) across Oaken direct and Broker channels; identified KYC vendor migration as root cause behind STP drop (71%) and complaint surge (+22%); structured 4 strategic decisions for ELT approval including targeted rate adjustments, $1.2M operations remediation, and broker concentration guardrails (illustrative sample data).
+- **Tech & Frameworks:** Portfolio Analytics, Financial Modeling, Balance Sheet Risk (LCR/NSFR), Rate Sensitivity Analysis, Operational Process Mining, Executive Presentation Design
 
 ---
 
